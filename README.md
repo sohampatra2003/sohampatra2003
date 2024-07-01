@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.app.goo.gl/PRMkMUVQ3cvv4tDA7" width="1080px">
+  <img src="https://magiccopy.xyz/assets/images/hadder.gif" width="1080px">
 </p>
 
 
