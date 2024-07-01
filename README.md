@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://images.app.goo.gl/PRMkMUVQ3cvv4tDA7" width="1080px">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm SOHAM PATRA</h1>
 <h3 align="center">A passionate frontend developer And Machine Learning Engineer from India</h3>
 
