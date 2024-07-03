@@ -4,23 +4,24 @@
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=28&pause=1000&color=2FE7F7&center=true&vCenter=true&width=435&lines=Front-End+Web+Developer;AI/ML+Enthusiast;Trying+To+Learn+New+Things;CP+%26+Website+Making+Is+Love+%E2%9D%A4%EF%B8%8F;Currently+Learning+React.js;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=28&pause=1000&color=2FE7F7&center=true&vCenter=true&width=435&lines=Full Stack Web Developer;AI/ML+Enthusiast;UI Designer;Competitive Programme 
+ +%26+Website+Making+Is+Love+%E2%9D%A4%EF%B8%8F;Currently+Learning+Devops;" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
 <p align="center">
-  <a style="display: inline;" href="https://www.facebook.com/sourin.mukherjee833"><img width="55px" alt="Facebook" title="Facebook" src="Images/facebook.png"/></a>
+  <a style="display: inline;" href="#"><img width="55px" alt="Facebook" title="Facebook" src="Images/facebook.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   <a href="#"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a> -->
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a style="display: inline;" href="https://www.instagram.com/i_am_faith_007" alt="Instagram"><img width="41px" title="Instagram" src="Images/instagram.png"/></a>
+  <a style="display: inline;" href="#" alt="Instagram"><img width="41px" title="Instagram" src="Images/instagram.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 <!--   <a href="#"><img width="32px" alt="Dev.to" title=" Dev.to" src="https://i.imgur.com/mVm29vK.png"></a> -->
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a style="display: inline;" href="https://www.linkedin.com/in/sourin-mukherjee2105833/"><img width="46px" alt="Linkedin" title="Linkedin" src="Images/linkedin.png"/></a>
+  <a style="display: inline;" href="https://www.linkedin.com/in/soham-patra-0770ba257/"><img width="46px" alt="Linkedin" title="Linkedin" src="Images/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a style="display: inline;" href="https://discord.com/users/918119603249508363"><img width="48px" alt="Discord" title="Discord" src="Images/discord.png"/></a>
+  <a style="display: inline;" href="#"><img width="48px" alt="Discord" title="Discord" src="Images/discord.png"/></a>
 </p>
 <hr>
 
